@@ -1,2 +1,2 @@
-# playing-with-jupyter
+# PLAYING WITH JUPYTER
 jupyter
